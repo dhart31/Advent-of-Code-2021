@@ -4,7 +4,7 @@ Python solutions of [Advent of Code 2021](https://adventofcode.com/2021)
 
 ## Solutions
 
-| Day | Challenge | Part 1 |
+| Day | Puzzle Name | Puzzle Solution|
 |:---:|:---|:---:|
 | 1 | [Sonar Sweep](https://adventofcode.com/2021/day/1) | [Solution](./sonar_sweep.py) |
 | 2 | [Dive!](https://adventofcode.com/2021/day/2) | [Solution](./dive.py) | 
